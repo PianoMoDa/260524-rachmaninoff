@@ -1,0 +1,37 @@
+PianoMoDa · Composer image credits
+
+Original image files are retained without AI restoration or retouching.
+The web page uses CSS positioning and scaling for comparable face sizes.
+
+Frédéric Chopin · composer-chopin.jpg
+Louis-Auguste Bisson. Wikimedia Commons: Public Domain.
+https://commons.wikimedia.org/wiki/File:Frederic_Chopin_photo.jpeg
+The historical photograph is usually dated c.1847–1849; no exact date asserted in the page.
+
+George Gershwin · composer-gershwin.jpg
+Bain News Service / Library of Congress, cph.3b02101.
+No known copyright restrictions; Wikimedia Commons: Public Domain.
+https://commons.wikimedia.org/wiki/File:George_Gershwin.jpg
+
+Percy Grainger · composer-grainger.jpg
+Bain News Service / Library of Congress, ggbain.29456.
+No known copyright restrictions; Wikimedia Commons: Public Domain.
+https://commons.wikimedia.org/wiki/File:Percygraingercrop.jpg
+
+Arthur Benjamin · composer-benjamin.jpg
+Wikimedia Commons file credited to ShortStat; black-and-white/stretch processing credited to Kcx36.
+The file page supplies Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+https://commons.wikimedia.org/wiki/File:Arthurbenjamin.jpg
+No new image processing; CSS display crop only. Original historical photographer and date are not established by that file page. The 2021 upload/processing date is not presented as the photograph's date.
+
+Sergei Rachmaninoff · composer-rachmaninoff.jpg
+Bain News Service / Library of Congress, ggbain.33969.
+No known copyright restrictions; Wikimedia Commons: Public Domain.
+https://commons.wikimedia.org/wiki/File:Sergei_Rachmaninoff_LOC_33969u.jpg
+
+PianoMoDa brand artwork
+The user's final approved graphic, reused unchanged from the canonical 260919-martinu complete package (version 19). Original PNG embedded in the SVG display mask; no logo redesign.
+
+Concert poster, photographs and lobby video
+Provided by the user for this attended-concert record.

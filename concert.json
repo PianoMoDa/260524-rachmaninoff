@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "260524-rachmaninoff",
+  "slug": "260524-rachmaninoff",
+  "title": "이혁 & 이효 듀오 리사이틀",
+  "subtitle": "Hyuk & Hyo Lee Duo Recital",
+  "date": "2026-05-24",
+  "time": "17:00",
+  "timezone": "Asia/Seoul",
+  "status": "attended",
+  "attendance": "attended",
+  "phase": "postlude",
+  "stage": "postlude",
+  "format": "Concert Postlude",
+  "url": "https://260524-rachmaninoff.pages.dev/",
+  "poster": "poster.jpg",
+  "venue": "예술의전당 콘서트홀",
+  "venueEn": "Seoul Arts Center Concert Hall",
+  "city": "서울",
+  "country": "KR",
+  "artists": [
+    "Hyuk Lee 이혁",
+    "Hyo Lee 이효"
+  ],
+  "performers": [
+    "이혁",
+    "이효"
+  ],
+  "composers": [
+    "Frédéric Chopin 쇼팽",
+    "George Gershwin 거슈윈",
+    "Percy Grainger 그레인저",
+    "Arthur Benjamin 벤자민",
+    "Sergei Rachmaninoff 라흐마니노프"
+  ],
+  "companions": [],
+  "tags": [
+    "two piano",
+    "duo recital",
+    "이혁·이효"
+  ],
+  "accent": "#a6b6ce",
+  "description": "쇼팽 독주에서 거슈윈–그레인저, 벤자민의 카리브 소품과 라흐마니노프의 교향적 무곡까지. 자유롭게 음악을 나눈 두 형제의 Concert Postlude.",
+  "updatedAt": "2026-10-24",
+  "sourceUrl": "https://www.sac.or.kr/site/main/show/show_view?SN=80737",
+  "program": [
+    {
+      "composer": "Frédéric Chopin",
+      "title": "Fantaisie in F minor, Op.49",
+      "year": "1841",
+      "composerAge": "31",
+      "durationMinutes": 13,
+      "performer": "Hyuk Lee",
+      "score": {
+        "file": "chopin-fantaisie-op49-schirmer.pdf",
+        "publisher": "G. Schirmer",
+        "editor": "Carl Mikuli",
+        "imslpFileId": 74982,
+        "pages": 18,
+        "thumbnail": "chopin-fantaisie-manuscript.png",
+        "editionNote": "1895 edition, 1934 reissue; filtered scan"
+      }
+    },
+    {
+      "composer": "Frédéric Chopin",
+      "title": "Scherzo No.4 in E major, Op.54",
+      "year": "1842–1843",
+      "composerAge": "32–33",
+      "durationMinutes": 11,
+      "performer": "Hyo Lee",
+      "score": {
+        "file": "chopin-scherzo-op54-peters.pdf",
+        "publisher": "C.F. Peters",
+        "editor": "Herrmann Scholtz",
+        "imslpFileId": 86691,
+        "pages": 16,
+        "thumbnail": "chopin-scherzo-historical.png"
+      }
+    },
+    {
+      "composer": "George Gershwin / Percy Grainger",
+      "title": "Fantasy on Porgy and Bess",
+      "year": "1935 original opera; 1951 arrangement",
+      "composerAge": "Grainger 68–69",
+      "durationMinutes": 20,
+      "referenceVideo": {
+        "youtubeId": "odFdQUGtwA8",
+        "type": "audio_with_score",
+        "title": "Hamelin and Lane play Grainger - Fantasy on Gershwin's Porgy and Bess Audio + Sheet music",
+        "uploader": "madlovba3",
+        "selectedByUser": true
+      }
+    },
+    {
+      "composer": "Arthur Benjamin",
+      "title": "Six Caribbean Pieces",
+      "year": "1938–1957",
+      "composerAge": "44–64",
+      "durationMinutes": 15,
+      "scoreSources": [
+        {
+          "titles": [
+            "Jamaican Rumba"
+          ],
+          "url": "https://imslp.org/wiki/Jamaican_Rumba_(Benjamin,_Arthur)",
+          "imslpFileId": 880380,
+          "pages": 7
+        },
+        {
+          "titles": [
+            "From San Domingo"
+          ],
+          "url": "https://imslp.org/wiki/From_San_Domingo_(Benjamin,_Arthur)",
+          "imslpFileId": 367134,
+          "pages": 8
+        },
+        {
+          "titles": [
+            "Mattie Rag",
+            "Cookie"
+          ],
+          "url": "https://imslp.org/wiki/2_Jamaican_Street_Songs_(Benjamin,_Arthur)",
+          "imslpFileId": 367132,
+          "pages": 10
+        },
+        {
+          "titles": [
+            "Caribbean Dance"
+          ],
+          "url": "https://www.schott-music.com/en/caribbean-dance-noq39555.html",
+          "pages": 9,
+          "access": "official paid PDF"
+        }
+      ]
+    },
+    {
+      "composer": "Sergei Rachmaninoff",
+      "title": "Symphonic Dances, Op.45, for two pianos",
+      "year": "1940; two-piano publication 1942",
+      "composerAge": "67",
+      "durationMinutes": 30,
+      "privateScoreUrl": "https://pianomoda-duo-260524.zeus1011.chatgpt.site/#scores"
+    }
+  ],
+  "encore": [
+    {
+      "composer": "Astor Piazzolla",
+      "title": "Libertango"
+    },
+    {
+      "composer": "Johannes Brahms",
+      "title": "Hungarian Dance No.5"
+    },
+    {
+      "composer": "Witold Lutosławski",
+      "title": "Variations on a Theme by Paganini for two pianos"
+    }
+  ],
+  "brand": "PianoMoDa",
+  "visibility": "public"
+}
