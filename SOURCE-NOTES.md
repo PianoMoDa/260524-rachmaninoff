@@ -115,3 +115,7 @@ Op.49: Schirmer/Mikuli #74982 filtered scan,18쪽. Op.54: Peters/Scholtz #86691,
 Benjamin 실제 확보 파일: https://petruccimusiclibrary.ca/files/imglnks/caimg/a/af/IMSLP367132-PMLP592936-Ben_2Jam_.pdf . 두 피아노 원본10쪽, Boosey&Hawkes1944 plate16533. 해당 파일은 소유자 전용 사이트/개인 모음에만 보관, 공개 ZIP에는 미포함. Jamaican Rumba와 From San Domingo는 상세 안내를 확인했지만 이번 다운로드가 human-check로 중단되어 PDF를 확보했다고 기록하지 않음.
 
 현재 비공개 Sites는 소유자1명·외부방문자0명·허용그룹0으로 확인. 공개 사이트 ZIP은 개인 합본·Benjamin PDF·Rachmaninoff PDF와 그 썸네일을 제외한 별도 출력. 사이트가 비공개인 것과 GitHub 저장소의 공개 범위는 별개이며 새 개인 GitHub 저장소를 만들지 않음. 공개 ZIP을 올린 Cloudflare Pages의 접근 정책은 따로 변경하지 않음.
+
+
+## Dropbox and historical score thumbnail update
+개인용 연습악보 다운로드: 사용자 승인한 비밀번호 보호 Dropbox 폴더 링크로 두 곳 교체. 사이트에 비밀번호 미기재. Op.45 썸네일: 사용자 제공 Charles Foley 1942 PDF 첫 페이지 렌더링, 클릭 시 기존 이미지 대화상자로 확대. 전곡 PDF는 ZIP에 포함하지 않음. 시간·나이 설명 문구 삭제. 기존 쇼팽 역사적 악보 두 이미지와 모바일 PDF.js 뷰어 유지.
